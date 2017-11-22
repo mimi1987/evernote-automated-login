@@ -1,3 +1,5 @@
+#!/Library/Frameworks/Python.framework/Versions/3.5/bin/python3
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
